@@ -7,6 +7,6 @@ public class Module_A {
 	}
 	
 	public int return_num() {
-		return 5;
+		return 1;
 	}
 }
