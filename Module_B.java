@@ -14,7 +14,7 @@ public class Module_B {
 		
 		result = module_A.return_num() + module_A.return_num();
 		
-		int yum = 7+3;
+		
 		return yum;
 		//return result;
 	}
