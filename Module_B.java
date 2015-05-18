@@ -15,7 +15,7 @@ public class Module_B {
 		result = module_A.return_num() + module_A.return_num();
 		
 		
-		//return yum;
-		return result;
+		return yum;
+		//return result;
 	}
 }
